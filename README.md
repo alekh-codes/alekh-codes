@@ -167,17 +167,11 @@ Responsive React portfolio.
 
 ```yaml
 Learning:
-  - React
   - Node.js
-  - AI Engineering
 
 Building:
   - Asset Management App 
   - Portfolio
-
-Exploring:
-  - LLM Applications
-  - System Design
 
 OpenTo:
   - Frontend Internship
