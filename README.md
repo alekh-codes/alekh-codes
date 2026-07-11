@@ -1,7 +1,5 @@
 # Alekh
 
-> **Note:** I can't reproduce another README's exact copyrighted layout, but below is an original premium README tailored to your resume.
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6f42c1&text=Alekh&fontColor=ffffff&fontAlignY=38"/>
 </p>
@@ -54,27 +52,19 @@ Frontend Developer pursuing B.Tech in Computer Science with experience building 
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Prompt Engineering | Intermediate | Structured prompting |
-| AI Applications | Intermediate | AI-powered web apps |
-| LLM Integration | Learning | API integration |
-| RAG | Learning | Retrieval concepts |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Career Track</b></summary>
+<summary><b>Asset Management App</b></summary>
 
 Job tracking dashboard.
 
 | Metric | Value |
 |---|---|
-| Stack | React, Node.js, MongoDB |
+| Stack | React, Local Storage, Tailwind |
 | Scale | Personal |
 | Security | Validation |
 | Impact | Productivity |
@@ -132,9 +122,8 @@ Responsive React portfolio.
 
 # Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge)](https://geeksforgeeks.org)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge)](https://hackerrank.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/u/alekh_code/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge)](https://www.geeksforgeeks.org/profile/codewitf1l9)
 
 ---
 
@@ -183,7 +172,7 @@ Learning:
   - AI Engineering
 
 Building:
-  - Career Track
+  - Asset Management App 
   - Portfolio
 
 Exploring:
