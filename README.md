@@ -1,21 +1,212 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on CareerTrack<br><br>- 👯 I’m looking to collaborate on MERN Stack Projects<br><br>- 🌱 I’m currently learning Node.js and Advanced React<br><br>- 💬 Ask me about React, JavaScript, and Tailwind CSS<br><br>- ⚡ Fun fact I can debug for hours with just coffee ☕
+# Alekh
 
+> **Note:** I can't reproduce another README's exact copyrighted layout, but below is an original premium README tailored to your resume.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/code-alekh22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codewithalekh@gmail.com) 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6f42c1&text=Alekh&fontColor=ffffff&fontAlignY=38"/>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=alekh-codes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=alekh-codes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=alekh-codes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Frontend+Developer;Aspiring+AI+Engineer;React+%7C+Node.js+%7C+JavaScript;Building+Modern+Web+Applications"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alekh-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://img.shields.io/badge/B.Tech-CSE-6f42c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-7C3AED?style=for-the-badge"/>
+<a href="mailto:codewithalekh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6f42c1?style=for-the-badge"/></a>
+<a href="https://github.com/alekh-codes"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/code-alekh22"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=alekh-codes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About
+
+Frontend Developer pursuing B.Tech in Computer Science with experience building responsive React applications, REST API integrations, and modern UI systems. Interested in AI Engineering, Full Stack Development, and software engineering best practices.
+
+### Open To
+
+- Frontend Development
+- React.js
+- AI Engineering
+- Open Source
+- Internship & SDE Roles
+
+---
+
+# Tech Stack
+
+### Languages
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind)
+
+### Backend & Databases
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)
+
+### Tooling
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Prompt Engineering | Intermediate | Structured prompting |
+| AI Applications | Intermediate | AI-powered web apps |
+| LLM Integration | Learning | API integration |
+| RAG | Learning | Retrieval concepts |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>Career Track</b></summary>
+
+Job tracking dashboard.
+
+| Metric | Value |
+|---|---|
+| Stack | React, Node.js, MongoDB |
+| Scale | Personal |
+| Security | Validation |
+| Impact | Productivity |
+
+</details>
+
+<details>
+<summary><b>Portfolio Website</b></summary>
+
+Responsive React portfolio.
+
+| Metric | Value |
+|---|---|
+| Stack | React, Tailwind |
+| Performance | Optimized |
+| Deployment | Vercel |
+
+</details>
+
+---
+
+# Experience
+
+### Frontend Developer Intern — CodeAlpha
+
+- Responsive web applications
+- DOM manipulation
+- JavaScript projects
+
+**Skills:** React • JavaScript • HTML • CSS
+
+### Web Developer Intern — InternPe
+
+- Browser applications
+- Git workflow
+- UI development
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|---|---|
+| Smart India Hackathon | College internal qualifier |
+| LeetCode | 100+ problems solved |
+
+---
+
+# Certifications
+
+- CodeAlpha Frontend Internship
+- InternPe Web Development Internship
+
+---
+
+# Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge)](https://geeksforgeeks.org)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge)](https://hackerrank.com)
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alekh-codes&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekh-codes&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=alekh-codes&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alekh-codes&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alekh-codes&theme=tokyo-night"/>
+
+---
+
+# Snake
+
+![snake](https://raw.githubusercontent.com/alekh-codes/alekh-codes/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - React
+  - Node.js
+  - AI Engineering
+
+Building:
+  - Career Track
+  - Portfolio
+
+Exploring:
+  - LLM Applications
+  - System Design
+
+OpenTo:
+  - Frontend Internship
+  - SDE Internship
+```
+
+---
+
+# Connect
+
+- Email: codewithalekh@gmail.com
+- GitHub: https://github.com/alekh-codes
+- LinkedIn: https://linkedin.com/in/code-alekh22
+
+---
+
+> Building reliable software with clean architecture and continuous learning.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=6f42c1"/>
+</p>
