@@ -20,7 +20,7 @@
 
 # About
 
-Frontend Developer pursuing B.Tech in Computer Science with experience building responsive React applications, REST API integrations, and modern UI systems. Interested in AI Engineering, Full Stack Development, and software engineering best practices.
+Frontend Developer pursuing B.Tech in Computer Science with experience building responsive React applications, REST API integrations, and modern UI systems. Full Stack Development, and software engineering best practices.
 
 ### Open To
 
