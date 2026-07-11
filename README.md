@@ -1,4 +1,4 @@
-# Alekh
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6f42c1&text=Alekh&fontColor=ffffff&fontAlignY=38"/>
