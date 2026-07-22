@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Aspiring+MERN+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Building+Modern+Web+Applications"/>
 </p>
 
 <p align="center">
